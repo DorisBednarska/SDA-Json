@@ -54,4 +54,6 @@ public class JsonMapperTest {
         String serializedObject = mapper2.writeValueAsString(user);
         System.out.println(serializedObject);
     }
+
+
 }
